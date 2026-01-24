@@ -23,7 +23,7 @@ https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/64158
 https://eu1.servers10.com:8081/8380/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo=https://i.imgur.com/dwF0jlz.png,GALAXY GR
 https://live20.bozztv.com/akamaissh101/ssh101/galaxygr/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo=https://i.imgur.com/dwF0jlz.png,GALAXY GR BLOB
+#EXTINF:-1 group-title="CINEMA" tvg-logo=https://i.imgur.com/dwF0jlz.png,GALAXY GR ALT
 https://live21.bozztv.com/akamaissh101/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo=https://i.imgur.com/dwF0jlz.png,GALAXY GR MUSIC
 https://live21.bozztv.com/giatv/giatv-galaxygr/galaxygr/playlist.m3u8
